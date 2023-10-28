@@ -4,4 +4,5 @@ belajar menggunakan laravel
 #migration
 #component blade
 belajar menggunakan tailwind
+grid
 belajar menggunakan github
