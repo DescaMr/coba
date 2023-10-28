@@ -1,0 +1,5 @@
+rencana untuk kedepan
+
+belajar menggunakan laravel
+belajar menggunakan tailwind
+belajar menggunakan github
