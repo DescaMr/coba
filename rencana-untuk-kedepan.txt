@@ -3,6 +3,8 @@ rencana untuk kedepan
 belajar menggunakan laravel
 #migration
 #component blade
+#bbbd
 belajar menggunakan tailwind
-grid
+grid, dark mode
 belajar menggunakan github
+bobo
