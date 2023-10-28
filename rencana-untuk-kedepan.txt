@@ -1,0 +1,7 @@
+rencana untuk kedepan
+
+belajar menggunakan laravel
+#migration
+#component blade
+belajar menggunakan tailwind
+belajar menggunakan github
