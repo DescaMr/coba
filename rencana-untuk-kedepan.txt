@@ -4,6 +4,7 @@ belajar menggunakan laravel
 #migration
 #component blade
 #bbbd
+#bacang
 belajar menggunakan tailwind
 grid, dark mode
 belajar menggunakan github
