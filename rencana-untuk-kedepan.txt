@@ -3,6 +3,7 @@ rencana untuk kedepan
 belajar menggunakan laravel
 #migration
 #component blade
-belajar menggunakan tailwind
-grid
+#risol
+
+grid bae lah lier 
 belajar menggunakan github
