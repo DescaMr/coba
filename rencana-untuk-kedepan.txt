@@ -3,7 +3,9 @@ rencana untuk kedepan
 belajar menggunakan laravel
 #migration
 #component blade
-#risol
-
-grid bae lah lier 
+#bbbd
+#bacang
+belajar menggunakan tailwind
+grid, dark mode
 belajar menggunakan github
+bobo
